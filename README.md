@@ -63,4 +63,4 @@ Couldn't upload the Random Forest model to the repo because the file is huge for
      - Conclusion
      
 - models folder include the models built during this project.
-- csv folders include the data used during this project
+- csv files include the data used during this project
